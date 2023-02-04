@@ -2,8 +2,8 @@
 
 This repository contains a starting point for Java projects.
 
-It configures the compiler to use UTF-8, Java 11, and enables reflection on parameters. It also contains the
-[Maven wrapper](https://github.com/takari/maven-wrapper).
+It configures the compiler to use UTF-8, Java 17, and enables reflection on parameters. It also shows deprecated APIs
+and fails on warnings. It contains the [Maven wrapper](https://maven.apache.org/wrapper/).
 
 It includes SLF4J as logging API, logback (with ISO8601 timestamps) as logging backend, JUnit 5 for testing, and AssertJ
 for test assertions.
